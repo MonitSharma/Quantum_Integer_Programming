@@ -29,7 +29,7 @@ This course is not going to focus on the following topics:
     <td class="tg-yw4l">A basic tutorial to learn about Linear Programs</td>
     <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Quantum-Integer-Programming-76235c575d6849fea5d632f73c345742">
    <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1APvivXzc3ekRMXqpt45CJnQXTzotX8m6?usp=sharing">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/119Wyb5KKn9_kkCGg-Tw13XYG4g9f6l4w?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
